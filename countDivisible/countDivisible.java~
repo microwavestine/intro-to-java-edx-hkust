@@ -1,0 +1,12 @@
+public class countDivisible
+{
+  public int countDivisible(int lowerBound, int upperBound)
+  {
+    
+  }
+  
+  public static void main(String args[])
+  {
+    
+  }
+}
